@@ -1,4 +1,4 @@
-package com.rogergcc.notificationsintercept
+package com.rogergcc.notificationsintercept.ui.utils
 
 
 /**
